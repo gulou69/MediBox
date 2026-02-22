@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">智能药品管理</string>
+    <string name="medicine_info">药品信息</string>
+    <string name="medication_history">服用记录</string>
+    <string name="environment_monitor">环境监控</string>
+    <string name="medicine_name">药品名称</string>
+    <string name="dosage">剂量</string>
+    <string name="schedule">服用时间</string>
+    <string name="temperature_range">温度范围</string>
+    <string name="humidity_range">湿度范围</string>
+    <string name="save">保存</string>
+    <string name="edit">编辑</string>
+    <string name="taken">已服用</string>
+    <string name="not_taken">未服用</string>
+    <string name="temperature">温度</string>
+    <string name="humidity">湿度</string>
+    <string name="normal">正常</string>
+    <string name="temp_low">温度过低</string>
+    <string name="temp_high">温度过高</string>
+    <string name="humidity_low">湿度过低</string>
+    <string name="humidity_high">湿度过高</string>
+    <string name="next_medication_time">下次服药时间</string>
+</resources>
