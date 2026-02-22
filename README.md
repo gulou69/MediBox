@@ -1,4 +1,4 @@
-# MediBox -- 基于 MQTT 的智能药品管理 Android 应用
+# 基于 MQTT 的智能药品管理 Android 应用 - MediBox
 
 ## 项目简介
 
